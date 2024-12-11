@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drarunanoopm
 - 👀 I’m interested in coding and teaching to code programs.
 - 💞️ During Full-Time PhD, "A novel approach for Image Forgery Detection" has done using MATLAB.
-- 💞️ After PhD, for book chapters, evaluation of Machine Learning Sci-kit Learn based 16 classifiers processed; Different Tensorflow hub based CNN models processed; Different Bio-inspired algorithms processed. Three funded proposals submitted(5Lakhs, 10Lakhs, 5.2cr).
+- 💞️ After PhD, for book chapters, evaluation of Machine Learning Sci-kit Learn based 16 classifiers processed; Different Tensorflow hub based CNN models processed(both small and large datasets); Different Bio-inspired algorithms processed. Three funded proposals submitted(5Lakhs, 10Lakhs, 5.2cr).
 - 🌱 I’m currently learning Quantum Machine Learning and its implementation.
 - 📫 How to reach me : Mail me.
 - 🌱 Research Gate: https://www.researchgate.net/profile/Arun-Mandankandy
