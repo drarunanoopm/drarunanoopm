@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drarunanoopm
+- 👋 Hi, I’m Dr.Arun Anoop M, Haling from Mattanur, Kannur, Kerala living at Badiyadka, Kasargode, Kerala.
 - 👀 I’m interested in coding and teaching to code programs.
 - 💞️ During Full-Time PhD, "A novel approach for Image Forgery Detection" has done using MATLAB.
 - 💞️ After PhD, for book chapters, evaluation of Machine Learning Sci-kit Learn based 16 classifiers processed; Different Tensorflow hub based CNN models processed(both small and large datasets); Different Bio-inspired algorithms processed. Three funded proposals submitted(5Lakhs, 10Lakhs, 5.2cr).
