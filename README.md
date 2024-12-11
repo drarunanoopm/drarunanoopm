@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Quantum Machine Learning and its implementation.
 - 📫 How to reach me : Mail me.
 - 🌱 Research Gate: https://www.researchgate.net/profile/Arun-Mandankandy
+- 🌱 Interested subjects in Teaching: Theory of computation, Information Security, Cyber Security, Ethical Hacking, Neural Networks & Fuzzy, Computer Graphics & Visualization, Cryptography & Network Security.
 
 <!---
 drarunanoopm/drarunanoopm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
